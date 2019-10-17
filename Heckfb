@@ -1,0 +1,6 @@
+gema "# Jsko" >> README.md 
+git init 
+git tambahkan README.md 
+git commit -m "komit pertama" 
+git remote tambahkan asal https://github.com/Juliansyah22/Jsko.git
+ git push -u master asal
